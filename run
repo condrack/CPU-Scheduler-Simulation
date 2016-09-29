@@ -1,0 +1,4 @@
+g++ processGenMem_part1.cpp ; ./a.out
+g++ processGenMem_part2.100%.cpp ; ./a.out
+g++ processGenMem_part2.50%.cpp ; ./a.out
+g++ processGenMem_part2.10%.cpp ; ./a.out
